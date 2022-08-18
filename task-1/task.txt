@@ -1,0 +1,1 @@
+Пройти тест https://learn.javascript.ru/quiz/js-basic
